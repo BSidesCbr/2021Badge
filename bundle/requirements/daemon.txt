@@ -1,0 +1,5 @@
+colorlog
+esptool
+python-box
+pyserial
+pyudev
